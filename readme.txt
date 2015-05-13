@@ -8,11 +8,11 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin will completely deactivates XML-RPC on your WordPress installation. This will prevent any brute force attacks to your website using XML-RPC. 
+This plugin will completely disable or deactivates XML-RPC on your WordPress installation. This will prevent any brute force attacks to your website using XML-RPC. 
 
 == Description ==
 
-This plugin will completely deactivate XML-RPC on your WordPress installation. This will prevent any brute force attacks to your website using XML-RPC. 
+This plugin will completely disable or deactivate XML-RPC on your WordPress installation. This will prevent any brute force attacks to your website using XML-RPC. 
 
 By using the plugin, it will remove your ability to post using XML-RPC protocol, which means no more, 
 
@@ -34,6 +34,7 @@ By using the plugin, it will remove your ability to post using XML-RPC protocol,
 You can check your installation via a [WordPress XML-Validator](http://xmlrpc.eritreo.it/) service at this URL: http://xmlrpc.eritreo.it/
 
 == Screenshots ==
+1. XML-RPC disabled as tested via XML-RPC validator
 
 == Changelog ==
 
